@@ -3,7 +3,7 @@
 My name is Benjamin Malo, I'm Full Stack Web Developer.
 
 
-![](https://c.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif)
+![](https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 
 About Me:
 
