@@ -2,6 +2,17 @@
 
 My name is Benjamin Malo, I'm Full Stack Web Developer.
 
+
+![](https://c.tenor.com/cI3eAVLXj48AAAAC/hello-world.gif)
+
+About Me:
+
+- Im Uruguayan, looking for new experiences and opportunities in the IT world.
+
+- I am recently graduated from bootcamp SoyHenry (+800hs intensive bootcamp) 
+
+- Teamwork is important for growth :)
+
 🛠️ Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
