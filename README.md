@@ -13,6 +13,9 @@ About Me:
 
 - Teamwork is important for growth :)
 
+-I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best
+
+
 🛠️ Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
